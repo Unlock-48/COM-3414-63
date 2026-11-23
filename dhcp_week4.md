@@ -1,6 +1,8 @@
 # คู่มือแนวทางการติดตั้งและตั้งค่า DHCP Server บน FreeBSD
 
 เอกสารสรุปขั้นตอนการติดตั้งโปรแกรม ISC DHCP Server 2.0 จาก Source Code บนระบบปฏิบัติการ FreeBSD การกำหนดค่าแจก IP Address อัตโนมัติผ่านการ์ดแลนวงใน (`em1`) การตั้งค่า Auto-start ตอนบูตระบบ และการทดสอบรับ IP ฝั่ง Windows 8 Client
+ภาพ ตย
+https://docs.google.com/document/d/1eMaK8RTVKLTDIDztfA0GxDT6UXPL8KpeEJGeRnT7GFg/edit?usp=sharing
 
 ---
 
